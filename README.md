@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @MarcusKorea
+- 👋 Hi, I’m Marcus
 - 👀 I’m interested in all aspects of data science!
 -  I enjoy machine learning and seeing what kind of cool and amazing things I can do with it.
-- 🌱 I am currently improving my python, javascript and R skills.
+- 🌱 I am currently improving my python, javascript and R skills so that I can do even better data analysis.
 
-<!---
-MarcusKorea/MarcusKorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contact me here: marcus.a.correia@gmail.com
